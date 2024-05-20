@@ -1,0 +1,139 @@
+
+
+
+
+@keyframes typing {
+    0%{
+        content: ' |';
+    }
+    3%{
+        content: ' D|';
+    }
+    5%{
+        content: ' De|';
+    }
+    7%{
+        content: ' Dev|';
+    }
+    9%{
+        content: ' Deve|';
+    }
+    11%{
+        content: ' Devel|';
+    }
+    13%{
+        content: ' Develo|';
+    }
+    15%{
+        content: ' Develop|';
+    }
+    17%{
+        content: ' Develope|';
+    }
+    19%{
+        content: ' Developer|';
+    }
+    21%{
+        content: ' Develope|';
+    }
+    23%{
+        content: ' Develop|';
+    }
+    25%{
+        content: ' Develo|';
+    }
+    27%{
+        content: ' Devel|';
+    }
+    29%{
+        content: ' Deve|';
+    }
+    31%{
+        content: ' Dev|';
+    }
+    33%{
+        content: ' De|';
+    }
+    35%{
+        content: ' D|';
+    }
+    37%{
+        content: ' De|';
+    }
+    40%{
+        content: ' Des|';
+    }
+    43%{
+        content: ' Desi|';
+    }
+    46%{
+        content: ' Desin|';
+    }
+    49%{
+        content: ' Desine|';
+    }
+    52%{
+        content: ' Desiner|';
+    }
+    55%{
+        content: ' Desine|';
+    }
+    58%{
+        content: ' Desin|';
+    }
+    58%{
+        content: ' Desi|';
+    }
+    58%{
+        content: ' Des|';
+    }
+    58%{
+        content: ' De|';
+    }
+    60%{
+        content: 'L |';
+    }
+    62%{
+        content: 'La |';
+    }
+    65%{
+        content: 'Lar |';
+    }
+    67%{
+        content: 'Larr |';
+    }
+    70%{
+        content: 'Larry |';
+    }
+    75%{
+        content: 'Larry D|';
+    }
+    77%{
+        content: 'Larry Da|';
+    }
+    80%{
+        content: 'Larry Dan|';
+    }
+    82%{
+        content: 'Larry Dani|';
+    }
+    85%{
+        content: 'Larry Danie|';
+    }
+    87%{
+        content: 'Larry Daniel|';
+    }
+    90%{
+        content: 'Larry Daniels|';
+    }
+}
+
+
+
+
+
+
+
+
+
+
